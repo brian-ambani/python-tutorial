@@ -23,3 +23,10 @@ is_cool = True  #bool
 x, y, name, is_cool = (1, 2.5, 'John', True)
 
 print(x, y, name, is_cool)
+
+'''
+print(type(x))
+print(type(name))
+print(type(is_cool))
+'''
+
