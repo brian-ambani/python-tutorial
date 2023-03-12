@@ -5,4 +5,6 @@ person = {
     'age': 30
 }
 
-print(person, type(person))
+# use constructor
+person2 = dict(first_name = 'Mary', last_name = 'Jane')
+print(person2, type(person2))
