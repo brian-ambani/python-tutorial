@@ -4,3 +4,5 @@ from math import pi
 
 
 class TestCircleArea(unittest.TestCase):
+    def test_area(self):
+        # Test
